@@ -1,6 +1,6 @@
 # 📊 Super Store Sales Dashboard
 
-This interactive *Sales Dashboard* was built using *Microsoft Excel*. It provides key insights into Super Store performance using Pivot Tables, Charts, Slicers, and Conditional Formatting.
+This interactive *Sales Dashboard* was built using *Microsoft Excel*. It provides key insights into Super Store performance using Pivot Tables, Charts, Slicers.
 
 ---
 
