@@ -26,7 +26,7 @@ This interactive *Sales Dashboard* was built using *Microsoft Excel*. It provide
 
 ## 📷 Dashboard Preview
 
-![Super Store Dashboard Preview](images/superstore-dashboard-preview.jpg)
+![Super Store Dashboard Preview](images/superstore-dashboard-preview.png)
 
 
 ---
