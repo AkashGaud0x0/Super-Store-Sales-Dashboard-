@@ -33,7 +33,7 @@ This interactive *Sales Dashboard* was built using *Microsoft Excel*. It provide
 
 ## 📥 Download the Dashboard
 
-[Click here to download the Excel file](assets/SuperStoreDashboard.xlsm)
+[Click here to download the Excel file](SuperStoreDashboard.xlsx)
 
 
 
